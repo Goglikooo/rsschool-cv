@@ -28,3 +28,22 @@ I'm 27-years-old dreamer, who's dream always was to find himself. After experime
 - JavaScript Basics
 - Git, GitHub
 - VS Code.
+
+******
+
+## __Code Example__  
+
+This code is a small part of my project "Tic-Tac-Toe":
+
+>
+
+    function drawInside() {
+        for(var i of divs){
+            if(this.innerHTML == ""){
+                counter++
+                counter%2 ==1 ? this.innerHTML = "X" : this.innerHTML = "O"
+            }
+        } win();    
+    }
+
+*****
