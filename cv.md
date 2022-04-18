@@ -47,3 +47,18 @@ This code is a small part of my project "Tic-Tac-Toe":
     }
 
 *****
+
+## __Courses__  
+
+- HTML and CSS Tutorials on the [w3school](https://www.w3schools.com/)  
+- IT-Step-Academy/Front-End-Developer (In Progress)
+- RS School Course "Javascript/Front-end" (In Progress)
+
+******
+
+## __Language Skills__  
+
+- English - C1
+- German - C1
+- Georgian - Native
+- Russian -Intermediate
